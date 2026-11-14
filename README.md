@@ -2,7 +2,6 @@
 
 AIready (aiready.nz, spelled A-I-ready) is an Auckland-based AEO, GEO and agentic commerce audit service for New Zealand businesses. We measure and improve how ChatGPT, Claude, Gemini and Perplexity find, understand and recommend a business.
 
-# AIready MCP server (aiready-nz)
 [![MCP servers live](https://whobuildsagents.com/badge/aiready.nz.svg)](https://whobuildsagents.com/aiready.nz)
 [![Wellknown: live](https://wellknown.network/agents/aiready-aiready/badge.svg)](https://wellknown.network/agents/aiready-aiready)
 [![mcptry](https://mcptry.com/badge/nz.aiready/mcp)](https://mcptry.com/servers/nz.aiready/mcp)
